@@ -1,7 +1,30 @@
-# Cubos Academy 
-## Repositório de Exercicios - Curso de Desenvolvedor de Software - Foco em Back-end
+# Cubos Academy
+## Curso de Desenvolvedor de Software - Foco em Back-end
+### Exercicio inicial - "Hello World"
 
-Este repositório contém os exercícios e projetos realizados durante o curso de Desenvolvedor de Software - Foco em Back-end. O curso abrange conceitos e tecnologias essenciais para construção de aplicações do lado do servidor.
+Este repositório contém o primeiro exercicio do curso de Desenvolvedor de Software - Foco em Back-end. 
+Que consiste em quebrar a maldição dev, o desafio foi criar um repositório com o nome hello-world e então criar um arquivo helloWorld.js que imprima no console.log um "Hello World!", ´para garantir que a maldição dev seja quebrada! 
+
+## Como Executar os Projetos
+
+1. Clone o repositório em sua máquina local:
+
+   ```bash
+   git clone https://github.com/brumoreiras/hello-world.git
+   
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd hello-world
+  
+3. Executando o Arquivo helloWorld.js
+
+    ```bash
+    node helloWorld.js
+
+# Descrição e abordagem do curso
+
+O curso abrange conceitos e tecnologias essenciais para construção de aplicações do lado do servidor.
 
 ## Tecnologias e Conceitos Abordados
 
@@ -12,19 +35,16 @@ Este repositório contém os exercícios e projetos realizados durante o curso d
 - Bancos de Dados: PostgreSQL
 
 - Outras tecnologias e conceitos: Lógica de programação, DevOPs, Deploy, API REST, Node.js, (...)
-## Estrutura do Repositório
 
-O repositório está organizado em pastas de acordo com os modulos, conforme for avançando o curso vou atualizadno este tópico.
+## Estrutura do do Curso
+
+O curso está organizado em modulos.
 
 - `modulo1/`: Exercícios e Projetos do Módulo 1 - Lógica de Programação.
 - `modulo2/`: Exercícios e Projetos do Módulo 2 - Lógica de Programação + API REST.
 - `modulo3/`: Exercícios e Projetos do Módulo 3 - SQL.
 - `modulo4/`: Exercícios e Projetos do Módulo 4 - Aprofundando no Back-end.
 - `modulo5/`: Exercícios e Projetos do Módulo 5 - Desafio final.
-
-## Como Executar os Projetos
-
-Para executar os projetos visite o `README.md` de cada pasta
 
 ## Progresso
 
